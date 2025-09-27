@@ -60,7 +60,10 @@ Mini-Project เป็นการศึกษาสถิติอุบัต�
 
 
 
-### ตัวแปรด้านยานพาหนะ (Vehicle factors) 
+### ตัวแปรด้านยานพาหนะ (Vehicle factors)
+
+<img width="16762" height="14657" alt="download (9)" src="https://github.com/user-attachments/assets/888b74c2-3c90-4794-818f-91e91e60b4c8" />
+
 
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/79c2b1b9-72ba-40b1-ad96-6aa8c3532e2f" />
