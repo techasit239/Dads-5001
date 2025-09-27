@@ -82,6 +82,7 @@ Mini-Project เป็นการศึกษาสถิติอุบัต�
 
 <img width="3816" height="4909" alt="image" src="https://github.com/user-attachments/assets/a2d46995-220d-4478-ad08-8237d31bcad1" />
 
+<img width="8899" height="9602" alt="download (15)" src="https://github.com/user-attachments/assets/1a93c044-9f80-4f16-b794-20c3490a46f6" />
 
 
 ### ตัวแปรด้านเวลาและบริบทสังคม (Temporal & Societal factors)
