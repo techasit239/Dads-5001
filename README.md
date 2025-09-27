@@ -146,7 +146,7 @@ Mini-Project เป็นการศึกษาสถิติอุบัต�
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/34914f90-2f91-46fe-b5b5-b22ca4d804a6" />
 
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/d2d0d62d-95c4-4827-aaac-7fdcaffaf4b0" />
+
 
 <img width="1033" height="364" alt="image" src="https://github.com/user-attachments/assets/f65f4877-a63c-4d5d-86fd-d24511191127" />
 
